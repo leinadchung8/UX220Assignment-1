@@ -1,5 +1,5 @@
 UX220 Assignment 1 start
 ===
 
-[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/leinadchung8/UX220Assignment1
+[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/leinadchung8/UX220Assignment-1
 )
